@@ -38,6 +38,8 @@ gem 'spring',        group: :development
 gem 'selenium-webdriver'
 gem 'capybara'
 
+gem 'bootstrap-sass', '~> 3.3.4.1'
+
 #gem 'rspec', '~> 3.2.0'
 #gem 'selenium-webdriver', '~> 2.45.0'
 #gem 'capybara', '~> 2.4.4'
