@@ -39,6 +39,8 @@ gem 'selenium-webdriver'
 gem 'capybara'
 
 gem 'bootstrap-sass', '~> 3.3.4.1'
+#gem 'bcrypt-ruby', '~> 3.1.5'
+gem 'bcrypt', '~> 3.1.10'
 
 #gem 'rspec', '~> 3.2.0'
 #gem 'selenium-webdriver', '~> 2.45.0'
