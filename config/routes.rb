@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
-  get 'users/new'
-
+  #get 'users/new'
+  resources :users
   # You can have the root of your site routed with "root"
   # root :to => "welcome#index"
   # get 'static_pages/home'

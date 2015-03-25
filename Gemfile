@@ -9,6 +9,7 @@ gem 'rspec'
 group :development, :test do
   gem 'sqlite3'
   gem 'rspec-rails'
+  gem 'factory_girl_rails', '~> 4.5.0'
 end
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.3'
